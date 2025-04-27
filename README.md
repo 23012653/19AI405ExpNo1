@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Anubharathi SS</h3>
-<h3>Register Number: 212223040017</h3>
+<h3>Name: Sanjana K L</h3>
+<h3>Register Number: 212224230241</h3>
 
 
 <h3>AIM:</h3>
